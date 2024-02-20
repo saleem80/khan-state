@@ -48,13 +48,13 @@ export default function Home() {
   return (
     <div>
       {/* top */}
-      <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto'>
-        <h1 className='text-slate-700 font-bold text-3xl lg:text-6xl'>
-          Find your next <span className='text-slate-500'>perfect</span>
+      <div className='flex flex-col gap-6 p-16 px-8 max-w-6xl mx-auto bg-image'>
+        <h1 className='text-green-700 font-bold text-3xl lg:text-6xl'>
+          Find your next <span className='text-slate-700'>perfect</span>
           <br />
           place with ease
         </h1>
-        <div className='text-gray-400 text-xs sm:text-sm'>
+        <div className='text-green-700 font-bold text-xs sm:text-sm'>
           Khan Estate is the best place to find your next perfect place to
           live.
           <br />

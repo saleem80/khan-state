@@ -5,3 +5,10 @@
 body{
     background-color: rgb(241, 245, 241);
 }
+.bg-image{
+    background-image: url("../public/images/bg-image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
